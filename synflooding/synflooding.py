@@ -1,5 +1,4 @@
 import scapy.all as scapy
-import threading
 
 TARGET_IP = "10.100.102.1"
 
